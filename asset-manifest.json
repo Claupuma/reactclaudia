@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactclaudia/static/css/main.073c9b0a.css",
+    "main.js": "/reactclaudia/static/js/main.8023a2a2.js",
+    "static/js/787.cc4e593a.chunk.js": "/reactclaudia/static/js/787.cc4e593a.chunk.js",
+    "static/media/logo.svg": "/reactclaudia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactclaudia/index.html",
+    "main.073c9b0a.css.map": "/reactclaudia/static/css/main.073c9b0a.css.map",
+    "main.8023a2a2.js.map": "/reactclaudia/static/js/main.8023a2a2.js.map",
+    "787.cc4e593a.chunk.js.map": "/reactclaudia/static/js/787.cc4e593a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8023a2a2.js"
+  ]
+}
